@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/nelson/MyGame/build/cmake_install.cmake",
+		"/home/nelson/MyGame/build/raylib/cmake_install.cmake",
+		"/home/nelson/MyGame/build/raylib/raylib/cmake_install.cmake",
+		"/home/nelson/MyGame/build/raylib/raylib/external/glfw/cmake_install.cmake",
+		"/home/nelson/MyGame/build/raylib/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
