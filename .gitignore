@@ -1,0 +1,8 @@
+# Ignore build directories
+build/
+.cache/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.user
